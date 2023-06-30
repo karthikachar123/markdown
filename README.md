@@ -25,7 +25,7 @@
 
 ## links
 
-You may be using [Markdown Live Preview](sec)
+You may be using [this is relative path](sec)
 
 ## blockquotes 
 
