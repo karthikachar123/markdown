@@ -32,3 +32,11 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/)
 > liferay is a product base company.
 >
 >> it is located in e.city.
+
+## tables
+
+| Left columns  | Right columns |
+| ------------- | --------------|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
