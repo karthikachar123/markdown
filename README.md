@@ -21,4 +21,4 @@
 
 ## Images
 
-![This is certificate](/Downloads/karthik.pdf "cerficate.")
+![This is certificate](/home/me/Downloads/karthik.pdf "cerficate.")
