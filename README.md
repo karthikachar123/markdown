@@ -25,7 +25,7 @@
 
 ## links
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/)
+You may be using [Markdown Live Preview](sec)
 
 ## blockquotes 
 
