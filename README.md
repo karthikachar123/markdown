@@ -21,4 +21,4 @@
 
 ## Images
 
-![This is certificate](https://www.goodhousekeeping.com/life/pets/g4531/cutest-dog-breeds/ "cerficate.")
+![This is certificate.](https://www.goodhousekeeping.com/life/pets/g4531/cutest-dog-breeds/ "pets")
